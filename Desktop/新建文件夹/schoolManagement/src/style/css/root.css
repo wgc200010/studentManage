@@ -1,0 +1,24 @@
+/**
+ * @功能描述: 全局样式
+ * @author: 王国超
+ * @date: 2023-07-10 14:40:00
+ * @version: 1.0.0
+ */
+body{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: aqua;
+}
+:root {
+    --background-color: rgb(179, 192, 209);
+    --aside-color:rgb(211, 220, 230);
+    --main-color:rgb(233, 238, 243);
+    --font-color: #000000;
+    --font-size:18px
+}
