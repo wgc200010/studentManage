@@ -1,0 +1,27 @@
+/**
+ * @功能描述: 查看搜索页面
+ * @author: 王国超
+ * @date: 2023-07-1 09:10:00
+ * @version: 1.0.0
+ */
+.search-table{
+    width: 100%;
+}
+
+.search-table-header{
+    height: 78px;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+}
+.search-table-header-input{
+    width: 150px;
+    height: 35px;
+}
+
+.search-table-body{
+    height: 78px;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+}
